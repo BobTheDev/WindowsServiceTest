@@ -3,15 +3,27 @@
   "WorkspaceRootPath": "D:\\GitHub\\WindowsServiceTest\\WindowsServiceTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C4217ED-C473-4094-AA35-AE38DA44FFA0}|WindowsServiceFromGPT\\WindowsServiceFromGPT.csproj|d:\\github\\windowsservicetest\\windowsservicetest\\windowsservicefromgpt\\program-gpt4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4217ED-C473-4094-AA35-AE38DA44FFA0}|WindowsServiceFromGPT\\WindowsServiceFromGPT.csproj|solutionrelative:windowsservicefromgpt\\program-gpt4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4217ED-C473-4094-AA35-AE38DA44FFA0}|WindowsServiceFromGPT\\WindowsServiceFromGPT.csproj|d:\\github\\windowsservicetest\\windowsservicetest\\windowsservicefromgpt\\servicefromgpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C4217ED-C473-4094-AA35-AE38DA44FFA0}|WindowsServiceFromGPT\\WindowsServiceFromGPT.csproj|solutionrelative:windowsservicefromgpt\\servicefromgpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4217ED-C473-4094-AA35-AE38DA44FFA0}|WindowsServiceFromGPT\\WindowsServiceFromGPT.csproj|d:\\github\\windowsservicetest\\windowsservicetest\\windowsservicefromgpt\\servicefromgpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4217ED-C473-4094-AA35-AE38DA44FFA0}|WindowsServiceFromGPT\\WindowsServiceFromGPT.csproj|solutionrelative:windowsservicefromgpt\\servicefromgpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B997FAEC-A6B7-46A3-A064-8B931CA4540C}|WindowsServiceTest\\WindowsServiceTest.csproj|D:\\GitHub\\WindowsServiceTest\\WindowsServiceTest\\windowsservicetest\\servicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B997FAEC-A6B7-46A3-A064-8B931CA4540C}|WindowsServiceTest\\WindowsServiceTest.csproj|solutionrelative:windowsservicetest\\servicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B997FAEC-A6B7-46A3-A064-8B931CA4540C}|WindowsServiceTest\\WindowsServiceTest.csproj|d:\\github\\windowsservicetest\\windowsservicetest\\windowsservicetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B997FAEC-A6B7-46A3-A064-8B931CA4540C}|WindowsServiceTest\\WindowsServiceTest.csproj|solutionrelative:windowsservicetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B997FAEC-A6B7-46A3-A064-8B931CA4540C}|WindowsServiceTest\\WindowsServiceTest.csproj|d:\\github\\windowsservicetest\\windowsservicetest\\windowsservicetest\\servicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B997FAEC-A6B7-46A3-A064-8B931CA4540C}|WindowsServiceTest\\WindowsServiceTest.csproj|solutionrelative:windowsservicetest\\servicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B997FAEC-A6B7-46A3-A064-8B931CA4540C}|WindowsServiceTest\\WindowsServiceTest.csproj|d:\\github\\windowsservicetest\\windowsservicetest\\windowsservicetest\\servicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B997FAEC-A6B7-46A3-A064-8B931CA4540C}|WindowsServiceTest\\WindowsServiceTest.csproj|D:\\GitHub\\WindowsServiceTest\\WindowsServiceTest\\windowsservicetest\\servicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B997FAEC-A6B7-46A3-A064-8B931CA4540C}|WindowsServiceTest\\WindowsServiceTest.csproj|solutionrelative:windowsservicetest\\servicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -27,6 +39,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program-gpt4.cs",
+              "DocumentMoniker": "D:\\GitHub\\WindowsServiceTest\\WindowsServiceTest\\WindowsServiceFromGPT\\Program-gpt4.cs",
+              "RelativeDocumentMoniker": "WindowsServiceFromGPT\\Program-gpt4.cs",
+              "ToolTip": "D:\\GitHub\\WindowsServiceTest\\WindowsServiceTest\\WindowsServiceFromGPT\\Program-gpt4.cs",
+              "RelativeToolTip": "WindowsServiceFromGPT\\Program-gpt4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T23:29:55.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceFromGPT.cs",
+              "DocumentMoniker": "D:\\GitHub\\WindowsServiceTest\\WindowsServiceTest\\WindowsServiceFromGPT\\ServiceFromGPT.cs",
+              "RelativeDocumentMoniker": "WindowsServiceFromGPT\\ServiceFromGPT.cs",
+              "ToolTip": "D:\\GitHub\\WindowsServiceTest\\WindowsServiceTest\\WindowsServiceFromGPT\\ServiceFromGPT.cs",
+              "RelativeToolTip": "WindowsServiceFromGPT\\ServiceFromGPT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T23:26:11.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceFromGPT.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\WindowsServiceTest\\WindowsServiceTest\\WindowsServiceFromGPT\\ServiceFromGPT.cs",
+              "RelativeDocumentMoniker": "WindowsServiceFromGPT\\ServiceFromGPT.cs",
+              "ToolTip": "D:\\GitHub\\WindowsServiceTest\\WindowsServiceTest\\WindowsServiceFromGPT\\ServiceFromGPT.cs [Design]",
+              "RelativeToolTip": "WindowsServiceFromGPT\\ServiceFromGPT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T23:24:44.371Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GitHub\\WindowsServiceTest\\WindowsServiceTest\\WindowsServiceTest\\Program.cs",
               "RelativeDocumentMoniker": "WindowsServiceTest\\Program.cs",
@@ -39,20 +89,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ServiceTest.cs",
               "DocumentMoniker": "D:\\GitHub\\WindowsServiceTest\\WindowsServiceTest\\WindowsServiceTest\\ServiceTest.cs",
               "RelativeDocumentMoniker": "WindowsServiceTest\\ServiceTest.cs",
               "ToolTip": "D:\\GitHub\\WindowsServiceTest\\WindowsServiceTest\\WindowsServiceTest\\ServiceTest.cs",
               "RelativeToolTip": "WindowsServiceTest\\ServiceTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABNAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T11:03:27.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ServiceTest.cs [Design]",
               "DocumentMoniker": "D:\\GitHub\\WindowsServiceTest\\WindowsServiceTest\\WindowsServiceTest\\ServiceTest.cs",
               "RelativeDocumentMoniker": "WindowsServiceTest\\ServiceTest.cs",
